@@ -1,7 +1,6 @@
-# [Project Name]
-Weather Journal App
+# Weather Journal App
 
-# [Description]
+# Description
 
 This is a weather journal app.
 
