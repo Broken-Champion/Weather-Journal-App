@@ -17,3 +17,5 @@ The UI is user-friendly and easy to use.
 In case the information isn't showing, please, make sure the zip code you're using is vaild or try another one.
 
 The code is full of describing comments and descriptions where relevant.
+
+NOTE: This app is no longer functional since the API key used in it has expired, so if you need to use it, create some credentials with an API provider and fill in the information where relevant.
